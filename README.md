@@ -1,7 +1,7 @@
 # Music-Player-Coding-Ninjas
 
 You can see the website live at:-
-https://music-player-coding-ninjas.vercel.app/
+https://music-player-cnproject.vercel.app/
 
 Screenshots of the music player :-
 
